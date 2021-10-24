@@ -33,6 +33,6 @@ This is a collection of links and cannot guarantee that all information is up to
 
 ## Competitions
 [IREC](https://www.soundingrocket.org/what-is-irec.html) - Intercollegiate Rocket Engineering Competition, a worldwide student rocket competition with two classes: 10,000 ft altitude and 30,000 ft altitude.
+
 [Spaceport America Cup](https://spaceportamericacup.com/about/) - The Spaceport America Cup now occurs at the same date and location as IREC, but includes additional competition categories, such as liquid rockets.
 
-> Written with [StackEdit](https://stackedit.io/).
