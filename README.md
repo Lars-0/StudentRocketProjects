@@ -1,5 +1,6 @@
-# Student Rocket Projects
+# University Rocket Teams that accept donations
  **About**
+ 
 This page was created to make it easier to find and donate money to student rocket projects. These teams are training future leaders of space exploration and development - they are doing fantastic work and are deserving of your support. If you are looking forward to space fairing future, supporting these teams is one of the best investments you can make.
 This is a collection of links and cannot guarantee that all information is up to date or how donated money will be used.
 
