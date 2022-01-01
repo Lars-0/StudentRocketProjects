@@ -36,9 +36,12 @@ This is a collection of links and cannot guarantee that all information is up to
 | SEDS UNLV              | University of Nevada Las Vegas               | High powered Rocketry                                        | [https://sedsunlv.com/pages/contact.html](https://sedsunlv.com/pages/contact.html)| [https://sedsunlv.com/index.html](https://sedsunlv.com/index.html) | [Instagram](https://www.instagram.com/sedsunlv/) [Youtube](https://www.youtube.com/channel/UCsZVNjRN5Dt3QDY0_PHx53A) |
 | Liquid Propulsion Group| Sacramento State University                  | Liquid Rocket Engine                                         | [https://paypal.me/LiquidPropGroup](https://paypal.me/LiquidPropGroup) |  [https://liquidpropulsiongroup.github.io/](https://liquidpropulsiongroup.github.io/) | [Discord](https://discord.com/invite/nn7RRuq) |
 | Czech Rocket Society   | Czech Republic                               | High powered Rocketry                                        | [https://paypal.me/czechrockets](https://paypal.me/czechrockets) |  [https://czechrockets.com](https://czechrockets.com) | [@czechrockets](https://instagram.com/czechrockets) |
+| Skyward Experimental Rocketry | Politecnico di Milano					| Solid rockets, Hybrid engine, European Rocketry Challange	   | [https://paypal.me/SkywardER](https://paypal.me/SkywardER) | [https://www.skywarder.eu/blog/](https://www.skywarder.eu/blog/) | [Instagram](https://www.instagram.com/skyward_er/?hl=en) |
+
 
 ## Competitions
 [IREC](https://www.soundingrocket.org/what-is-irec.html) - Intercollegiate Rocket Engineering Competition, a worldwide student rocket competition with two classes: 10,000 ft altitude and 30,000 ft altitude.
 
 [Spaceport America Cup](https://spaceportamericacup.com/about/) - The Spaceport America Cup now occurs at the same date and location as IREC, but includes additional competition categories, such as liquid rockets.
 
+[EuRoC](https://euroc.pt/) - European Rocketry Challange, the first European university rocket competition, promoted by the Portuguese Space Agency. Six different categories: 3km and 9km with solid, hybrid or liquid engines.
